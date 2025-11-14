@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # **README – Python Laboratory Experiments**
 
@@ -68,3 +69,6 @@ Gain practical experience with file handling and MicroPython programming, focusi
 
 ---
 
+=======
+# Python-CS-2001
+>>>>>>> 5a9c94f2ac0efeab2f0360d5f45eba78e41a4ded
