@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # **README – Python Laboratory Experiments**
 
